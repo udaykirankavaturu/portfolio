@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Uday Kiran Kavaturu </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/udaykiran19491//">LinkedIn</a> |
+  <a href="https://github.com/udaykirankavaturu">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+Also actively developing web apps at [x]cube LABS.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
